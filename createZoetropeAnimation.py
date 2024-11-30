@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image, ImageDraw
 
 # Configs:
-input_path = "vanishingAct.png"
+input_path = "diceGame.png"
 
 def create_phenakistoscope_animation(input_image_path, output_video_path, num_frames=24, video_fps=24, loops=3):
     """
