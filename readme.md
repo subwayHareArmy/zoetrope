@@ -78,9 +78,4 @@ create_phenakistoscope_animation(
 
 ---
 
-## **Output**
-The script generates an MP4 video file, which you can preview directly or use in physical zoetrope setups.
-
----
-
 Feel free to reach out if you are making zoetrope animations too, it's a fun time!
