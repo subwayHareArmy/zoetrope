@@ -3,7 +3,7 @@
 # Zoetrope Animation Generator
 
 ## **Motivation**
-I've seen amazing zoetrope animations on binyl records on the internet and wanted to design my own.
+I've seen amazing zoetrope animations on vinyl records on the internet and wanted to design my own.
 
 Creating these traditionally involves a trial-and-error process, with physical prints, rotations, and camera setups. Found the process of designing quite cumbersome. 
 This little script streamlines the testing of zoetrope animations digitally, enabling faster prototyping.
